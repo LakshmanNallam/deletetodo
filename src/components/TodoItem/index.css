@@ -1,0 +1,14 @@
+.item {
+  display: flex;
+  justify-content: space-between;
+  color: black;
+  font-family: 'Roboto';
+}
+.button {
+  color: #ff0b37;
+  background-color: white;
+  width: 90px;
+  margin-bottom: 5px;
+  border-radius: 8px;
+  border-color: #ff0b37;
+}

@@ -1,0 +1,18 @@
+.mainDiv {
+  min-height: 100vh;
+  background-color: #ffc2a0;
+  display: flex;
+  justify-content: center;
+}
+
+.whiteCon {
+  color: #ffc2a0;
+  display: flex;
+  width: 50%;
+  margin: 23px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border-radius: 13px;
+}
